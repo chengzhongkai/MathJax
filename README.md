@@ -1,3 +1,5 @@
+http://www.latex-cmd.com/equation/matrix.html
+
 # MathJax
 
 ## Beautiful math in all browsers
